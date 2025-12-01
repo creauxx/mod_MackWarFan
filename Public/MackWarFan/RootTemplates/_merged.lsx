@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save> 
+	<version major="4" minor="0" revision="6" build="5" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>	
+				<node id="GameObjects"> 
+					<attribute id="Description" type="TranslatedString" handle="h59b84adfg2238g4fccg806dg7de3c23849b5" version="1" /> UPDATED
+					<attribute id="DisplayName" type="TranslatedString" handle="ha54ff5ffg3031g4010g9156g9e96d66bc87a" version="1" /> UPDATED
+					<attribute id="EquipmentTypeID" type="guid" value="2d85d633-d496-44a1-a643-0e95ef879a6d" /> not sure, seems to reference a general item for sheathing positions and sounds
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="Icon_WarFan_1" /> UPDATED - inventory icon, the one in Public\Game\GUI\Assets\Tooltips\ItemIcons
+					<attribute id="MapKey" type="FixedString" value="d1eb33e0-e724-49b7-b94a-77a239e35480" /> UPDATED - weapon-specific UUID, NOT meta UUID
+					<attribute id="Name" type="LSString" value="WarFan_1" /> UPDATED - txt name from Stat folder files (item name)
+					<attribute id="ParentTemplateId" type="FixedString" value="5a6cea10-b3f6-4370-8eed-0b69b4ba531a" /> what parent item to default to for the various parameters
+					<attribute id="PhysicsTemplate" type="FixedString" value="56184af3-63ea-442e-b111-fe81bff2c2f4" /> tells game item physics
+					<attribute id="VisualTemplate" type="FixedString" value="a6ecc67b-9b9f-4d60-afdf-0340368545e7" /> tells game item visual
+					<attribute id="Stats" type="FixedString" value="WarFan_1" /> UPDATED - same as Name 
+					<attribute id="Type" type="FixedString" value="item" /> 
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665791066" />
+				</node>	
+			</children>
+		</node>
+	</region>
+</save>
