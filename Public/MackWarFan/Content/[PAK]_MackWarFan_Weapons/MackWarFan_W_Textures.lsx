@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="TextureBank">
+		<node id="TextureBank">
+			<children>
+				<node id="Resource">
+					<attribute id="Depth" type="int64" value="1" />
+					<attribute id="Height" type="int64" value="2048" />
+					<attribute id="ID" type="FixedString" value="4bf8fe62-20f7-4bf1-93cb-2518b6131e69" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="WarFan_1_Body" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/MackWarFan/Assets/Weapons/Resources/WarFan_1_BM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="WarFan_1_Body" />
+					<attribute id="Type" type="int64" value="1" />
+					<attribute id="Width" type="int64" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int64" value="1" />
+					<attribute id="Height" type="int64" value="2048" />
+					<attribute id="ID" type="FixedString" value="fcd56faa-549a-4f15-b09c-5763f2ba61a6" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="WarFan_1_Normal" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/MackWarFan/Assets/Weapons/Resources/WarFan_1_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="WarFan_1_Normal" />
+					<attribute id="Type" type="int64" value="1" />
+					<attribute id="Width" type="int64" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int64" value="1" />
+					<attribute id="Height" type="int64" value="2048" />
+					<attribute id="ID" type="FixedString" value="0c60c184-bf7f-4d94-a03e-402bc03ef655" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="WarFan_1_Physical" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/MackWarFan/Assets/Weapons/Resources/WarFan_1_PM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="WarFan_1_Physical" />
+					<attribute id="Type" type="int64" value="1" />
+					<attribute id="Width" type="int64" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

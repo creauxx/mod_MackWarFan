@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="VisualBank">
+		<node id="VisualBank">
+			<children>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.063868 0.330109 0.005345985" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.268101 -1.119809 -0.04527806" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="e57d24a7-9e49-4bd0-8f29-59f56039ffb5" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="4" />
+					<attribute id="Name" type="LSString" value="WarFan_1" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.7753447" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/MackWarFan/Assets/Weapons/Resources/WarFan_1.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/MackWarFan/Assets/Weapons/Resources/FFSG_Gunblade.Dummy_WPN_HUM_Longsword_A_0.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725669" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="e9b1b0f0-f06a-46dd-bb67-9e93faa00487" />
+							<attribute id="ObjectID" type="FixedString" value="FFSG_Gunblade.WPN_HUM_Longsword_A_0_Mesh.0" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

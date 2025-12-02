@@ -9,7 +9,7 @@
                     <attribute id="Width" type="int32" value="64" />
                 </node>
                 <node id="TextureAtlasPath">
-                    <attribute id="Path" type="LSString" value="Assets\Textures\Icons\Icon_WarFan_1.dds" /> 
+                    <attribute id="Path" type="LSString" value="Assets/Textures/Icons/Icon_WarFan_1.dds" /> 
                     <attribute id="UUID" type="FixedString" value="f0799aca-ef78-4607-bbfc-6020d5b7908f" />
                 </node>
                 <node id="TextureAtlasTextureSize">

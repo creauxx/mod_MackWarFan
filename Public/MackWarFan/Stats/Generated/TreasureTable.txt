@@ -1,4 +1,4 @@
 new treasuretable "TUT_Chest_Potions"
 CanMerge 1
 new subtable "1,1"
-object category "WarFan_1",1,0,0,0,0,0,0,0 //updated
+object category "WarFan_1",1,0,0,0,0,0,0,0 

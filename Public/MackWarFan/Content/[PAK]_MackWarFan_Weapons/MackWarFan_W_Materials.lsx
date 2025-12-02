@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="MaterialBank">
+		<node id="MaterialBank">
+			<children>
+				<node id="Resource">
+					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="94c55f45-bafc-4f8c-9a0b-bcd9953f382a" />
+					<attribute id="MaterialType" type="uint8" value="4" />
+					<attribute id="Name" type="LSString" value="WarFan_1" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Base/Base_AlphaTest.lsf" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+					<children>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="False" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="SeeThroughEnabled" />
+							<attribute id="Value" type="float" value="0" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0.5" />
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Reflectance" />
+							<attribute id="Value" type="float" value="0" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ID" type="FixedString" value="9dc5807b-3697-4b8f-ab0f-b9c5c1bd7010" />
+							<attribute id="IgnoreTexelDensity" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ID" type="FixedString" value="9a87ad05-67d0-45e7-84d5-0bed19068db9" />
+							<attribute id="ParameterName" type="FixedString" value="basecolor" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="ef1ad892-1ef2-4efe-ab2e-2b689d6ac757" />
+							<attribute id="ParameterName" type="FixedString" value="normalmap" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="ac2d7a68-ad94-4c84-b727-8b7b2b3aa725" />
+							<attribute id="ParameterName" type="FixedString" value="physicalmap" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
