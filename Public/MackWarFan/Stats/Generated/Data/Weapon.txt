@@ -1,0 +1,17 @@
+new entry "WarFan_1" //updated
+type "Weapon"
+using "WPN_Longsword_1" //ideally matches parent template used in merged
+data "RootTemplate" "d1eb33e0-e724-49b7-b94a-77a239e35480" //updated
+data "Damage Type" "Slashing" //updated
+data "Damage" "2d4" //updated
+data "ValueOverride" "500" //updated
+data "Weight" "1.0" //updated
+data "BoostsOnEquipMainHand" "UnlockSpell(Target_PiercingThrust);UnlockSpell(Target_HinderingSmash);"
+data "Weapon Group" "MartialMeleeWeapon"
+data "Weapon Properties" "Finesse;Melee;Dippable;Magical"
+data "Proficiency Group" "Rapiers;MartialWeapons"
+data "Rarity" "Rare" //updated
+data "PassivesOnEquip" "MAG_IgnorePiercingResistance_Passive;ImprovedCritical"
+data "DefaultBoosts" "WeaponProperty(Magical);IF(CharacterLevelGreaterThan(3) and not CharacterLevelGreaterThan(6)):WeaponEnchantment(1);IF(CharacterLevelGreaterThan(3) and not CharacterLevelGreaterThan(6)):WeaponDamage(1,Piercing);IF(CharacterLevelGreaterThan(3) and not CharacterLevelGreaterThan(6)):WeaponDamage(1d4,Thunder);IF(CharacterLevelGreaterThan(6)):WeaponDamage(1d8,Thunder);IF(CharacterLevelGreaterThan(6) and not CharacterLevelGreaterThan(9)):WeaponEnchantment(2);IF(CharacterLevelGreaterThan(6) and not CharacterLevelGreaterThan(9)):WeaponDamage(2,Piercing);IF(CharacterLevelGreaterThan(9)):WeaponEnchantment(3);IF(CharacterLevelGreaterThan(9)):WeaponDamage(3,Piercing)"
+
+
