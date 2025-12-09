@@ -24,9 +24,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="Unassigned" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/MackWarFan/Assets/Weapons/Resources/WarFan_1.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/MackWarFan/Assets/Weapons/Resources/MackWarFan.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/MackWarFan/Assets/Weapons/Resources/FFSG_Gunblade.Dummy_WPN_HUM_Longsword_A_0.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/MackWarFan/Assets/Weapons/Resources/MackWarFan.Dummy_MackWarFan.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725669" />
 					<children>
 						<node id="AnimationWaterfall">
@@ -35,8 +35,8 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="e9b1b0f0-f06a-46dd-bb67-9e93faa00487" />
-							<attribute id="ObjectID" type="FixedString" value="FFSG_Gunblade.WPN_HUM_Longsword_A_0_Mesh.0" />
+							<attribute id="MaterialID" type="FixedString" value="94c55f45-bafc-4f8c-9a0b-bcd9953f382a" />
+							<attribute id="ObjectID" type="FixedString" value="MackWarFan.MackWarFan.0" />
 						</node>
 					</children>
 				</node>
