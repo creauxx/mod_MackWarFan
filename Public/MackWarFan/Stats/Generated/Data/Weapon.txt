@@ -1,6 +1,7 @@
 new entry "WarFan_1" 
 type "Weapon"
-using "WPN_HUM_Rapier_A_1" 
+using "_BaseWeapon" 
+data "UseCosts" "ActionPoint:1"
 data "RootTemplate" "d1eb33e0-e724-49b7-b94a-77a239e35480" 
 data "Damage Type" "Slashing" 
 data "Damage" "2d4" 
@@ -12,5 +13,9 @@ data "Proficiency Group" "Rapiers;MartialWeapons"
 data "Rarity" "Rare"
 data "PassivesOnEquip" "MAG_IgnorePiercingResistance_Passive;ImprovedCritical"
 data "DefaultBoosts" "WeaponProperty(Magical);IF(CharacterLevelGreaterThan(3) and not CharacterLevelGreaterThan(6)):WeaponEnchantment(1);IF(CharacterLevelGreaterThan(3) and not CharacterLevelGreaterThan(6)):WeaponDamage(1,Piercing);IF(CharacterLevelGreaterThan(3) and not CharacterLevelGreaterThan(6)):WeaponDamage(1d4,Thunder);IF(CharacterLevelGreaterThan(6)):WeaponDamage(1d8,Thunder);IF(CharacterLevelGreaterThan(6) and not CharacterLevelGreaterThan(9)):WeaponEnchantment(2);IF(CharacterLevelGreaterThan(6) and not CharacterLevelGreaterThan(9)):WeaponDamage(2,Piercing);IF(CharacterLevelGreaterThan(9)):WeaponEnchantment(3);IF(CharacterLevelGreaterThan(9)):WeaponDamage(3,Piercing)"
+data "BoostsOnEquipMainHand" ""
+data "ValueScale" "1"
+
+
 
 
