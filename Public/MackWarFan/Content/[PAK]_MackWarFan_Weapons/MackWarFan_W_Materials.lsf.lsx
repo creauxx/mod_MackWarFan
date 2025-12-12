@@ -40,21 +40,21 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="" />
-							<attribute id="ID" type="FixedString" value="9a87ad05-67d0-45e7-84d5-0bed19068db9" />
+							<attribute id="ID" type="FixedString" value="4bf8fe62-20f7-4bf1-93cb-2518b6131e69" />
 							<attribute id="ParameterName" type="FixedString" value="basecolor" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="Texture Map" />
-							<attribute id="ID" type="FixedString" value="ef1ad892-1ef2-4efe-ab2e-2b689d6ac757" />
+							<attribute id="ID" type="FixedString" value="fcd56faa-549a-4f15-b09c-5763f2ba61a6" />
 							<attribute id="ParameterName" type="FixedString" value="normalmap" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="Texture Map" />
-							<attribute id="ID" type="FixedString" value="ac2d7a68-ad94-4c84-b727-8b7b2b3aa725" />
+							<attribute id="ID" type="FixedString" value="0c60c184-bf7f-4d94-a03e-402bc03ef655" />
 							<attribute id="ParameterName" type="FixedString" value="physicalmap" />
 						</node>
 					</children>
