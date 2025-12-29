@@ -26,7 +26,7 @@
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/MackWarFan/Assets/Weapons/Resources/MackWarFan.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/MackWarFan/Assets/Weapons/Resources/MackWarFan.Dummy_WPN_HUM_Rapier_A_1.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/MackWarFan/Assets/Weapons/Resources/MackWarFan.Dummy_MAG_PHB_OfSpeed_Scimitar.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725669" />
 					<children>
 						<node id="AnimationWaterfall">
@@ -36,7 +36,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="94c55f45-bafc-4f8c-9a0b-bcd9953f382a" />
-							<attribute id="ObjectID" type="FixedString" value="MackWarFan.WPN_HUM_Rapier_A_1_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="MackWarFan.MAG_PHB_OfSpeed_Scimitar_Mesh.0" />
 						</node>
 					</children>
 				</node>

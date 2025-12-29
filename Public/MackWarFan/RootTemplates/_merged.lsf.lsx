@@ -11,7 +11,7 @@
 					<attribute id="Icon" type="FixedString" value="Icon_WarFan_1" /> 
 					<attribute id="MapKey" type="FixedString" value="d1eb33e0-e724-49b7-b94a-77a239e35480" /> 
 					<attribute id="Name" type="LSString" value="WarFan_1" /> 
-					<attribute id="ParentTemplateId" type="FixedString" value="5a6cea10-b3f6-4370-8eed-0b69b4ba531a" /> 
+					<attribute id="ParentTemplateId" type="FixedString" value="d60524f4-583e-4b16-91b2-871221d441cf" /> 
 					<attribute id="Stats" type="FixedString" value="WarFan_1" /> 
 					<attribute id="Type" type="FixedString" value="item" /> 
 					<attribute id="VisualTemplate" type="FixedString" value="e57d24a7-9e49-4bd0-8f29-59f56039ffb5" />
